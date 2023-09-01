@@ -18,5 +18,5 @@ console.log('result 2');
 console.log(result2);
 console.log(result2 -20);
 
-let foo = firstNumber + secondNumber
-console.log(typeof(foo))
+let foo = firstNumber + secondNumber;
+console.log(typeof(foo));

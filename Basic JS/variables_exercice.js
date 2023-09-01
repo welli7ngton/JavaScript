@@ -12,4 +12,4 @@ console.log(myName, 'tem', age, 'anos', ',pesa',weight, 'kgs, tem', height, 'm d
 console.log(myName,'nasceu em', birth);
 
 console.log();
-console.log(`${myName} tem ${age} anos, pesa ${weight} kgs, tem ${height} m de altura e seu IMC é: ${imc}`)
+console.log(`${myName} tem ${age} anos, pesa ${weight} kgs, tem ${height} m de altura e seu IMC é: ${imc}`);

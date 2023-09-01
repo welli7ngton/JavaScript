@@ -9,7 +9,7 @@ console.log(testString.length);
 console.log(testString.slice(3, 6));
 
 console.log(testString.split(" "));
-let my = ['oi', 'tudo', 'bem']
-console.log(my[0])
-console.log(my.indexOf('tudo'))
-console.log(my.length)
+let my = ['oi', 'tudo', 'bem'];
+console.log(my[0]);
+console.log(my.indexOf('tudo'));
+console.log(my.length);

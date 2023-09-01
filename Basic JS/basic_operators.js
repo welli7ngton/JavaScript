@@ -23,7 +23,7 @@ console.log(num1 ** num2);
 // % rest of division
 console.log(num1 % num2);
 
-console.log()
+console.log();
 
 // order of precedence of operators
 
@@ -40,21 +40,21 @@ cont--;
 --cont;
 console.log(cont);
 
-console.log()
+console.log();
 
 // += -= *= /= **=
 const step = 5;
 let i = 0;
 i += step;
-console.log(i)
+console.log(i);
 i += step;
-console.log(i)
+console.log(i);
 i += step;
-console.log(i)
+console.log(i);
 i += step;
-console.log(i)
+console.log(i);
 
-console.log()
+console.log();
 
 // convertion 
 const n1 = 10;

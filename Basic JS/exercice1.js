@@ -8,6 +8,6 @@ let varC = 'C'; // A
 // varA = varB;
 // varB = temp;
 
-[varA, varB, varC] = [varB, varC, varA]
+[varA, varB, varC] = [varB, varC, varA];
 
-console.log(varA, varB, varC)
+console.log(varA, varB, varC);
