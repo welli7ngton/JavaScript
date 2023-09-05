@@ -25,7 +25,7 @@ function setMonth(month){
             return 'Janeiro';
         case 1:
             return 'Fevereiro';
-        case 2:
+        case 2:""
             return 'Março';
         case 3:
             return 'Abril';
