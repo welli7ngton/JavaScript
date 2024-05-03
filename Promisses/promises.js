@@ -10,7 +10,7 @@ function espera(msg) {
         reject('Caiu no erro')
     }
     setTimeout(() => {
-      resolve(msg);
+      resolve(msg.toUpperCase() + 'passei na promisse');
     }, rand());
   });
 }
