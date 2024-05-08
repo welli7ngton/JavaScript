@@ -1,6 +1,6 @@
 // import { nome as nome2 , sobrenome, idade, soma, Pessoa } from './modulo1' import singular
 
-import * as meuModulo from './modulo1'
+import * as meuModulo from './modulo_export'
 
 
 // console.log(nome2)
